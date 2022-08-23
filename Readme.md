@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Project-10-orange)
+![](https://img.shields.io/badge/Project-11-orange)
 [Live Link](https://interior-design-landing-page-1.netlify.app/)
 
 ## Screenshorts
